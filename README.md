@@ -1,5 +1,5 @@
 
-# Zeeso: A Tiny Rust OS Saying "Hello, World!"
+# Zeeso: A Tiny Rust OS 
 
 **Zeeso** is a budding operating system written in Rust, currently capable of displaying "Hello, World!" on boot. It's a playground for learning low-level system programming and exploring Rust's potential in this realm.
 
@@ -11,7 +11,6 @@
 **Current Status:**
 
 - **Boot Sequence:** Displays "Hello, World!" on startup.
-- **Serial Console:** Supports interaction via a serial terminal.
 
 **Getting Started:**
 
