@@ -10,7 +10,7 @@
 
 **Current Status:**
 
-- **Boot Sequence:** Displays "Hello, World!" on startup.
+- vga output enabled with println and print macros in rust
 
 **Getting Started:**
 
